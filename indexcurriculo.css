@@ -1,0 +1,53 @@
+table{
+    border-style: groove;
+    border-color: ghostwhite;
+    border-collapse: unset;
+    width: 25%;
+}
+
+header{
+    text-align: justify;
+    padding-left: 35px;
+    background-color: rgb(233, 233, 217);
+}
+
+main div{
+    text-align: justify;
+    padding-left: 35px;
+    background-color: rgb(233, 233, 217);
+}
+ 
+h3#info{
+    text-align: justify;
+    padding-left: 35px;
+}
+section#s1{
+    text-align: justify;
+    background-color: rgb(233, 233, 217);
+}
+
+section#s2{
+    padding-left: 35px;
+    background-color: rgb(233, 233, 217);
+}
+
+td#td1{
+    padding-left: 0px;
+}
+
+td#td2{
+    padding-left: 0px;
+}
+
+td#td3{
+    padding-left: 0px;
+}
+    
+td{
+    padding-left: 60px;
+}
+
+h4{
+    padding-left: 35px;
+    background-color: rgb(233, 233, 217);
+}
